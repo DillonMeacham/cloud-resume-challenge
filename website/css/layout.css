@@ -208,7 +208,7 @@ ul#nav li.current a { color: #ff0000; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #ffffff;
 }
 #about .profile-pic {
    position: relative;
@@ -224,7 +224,7 @@ ul#nav li.current a { color: #ff0000; }
 #about .main-col { padding-right: 5%; }
 #about .download .button {
    margin-top: 6px;
-   background: #444;
+   background: #262626;
 }
 #about .download .button:hover {
    background: #fff;
@@ -248,7 +248,7 @@ ul#nav li.current a { color: #ff0000; }
 }
 
 #resume a, #resume a:visited  { color: #ff0000; }
-#resume a:hover, #resume a:focus { color: #313131; }
+#resume a:hover, #resume a:focus { color: #ffffff; }
 
 #resume h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
@@ -269,11 +269,11 @@ ul#nav li.current a { color: #ff0000; }
 .education, .work {
    margin-bottom: 48px;
    padding-bottom: 24px;
-   border-bottom: 1px solid #E8E8E8;
+   border-bottom: 1px solid #000000;
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
-   color: #6E7881;
+   color: #000000;
    margin-bottom: 18px;
    margin-top: 9px;
 }
@@ -309,7 +309,7 @@ ul#nav li.current a { color: #ff0000; }
 }
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
-   color: #313131;
+   color: #ffffff;
 	text-transform: uppercase;
    letter-spacing: 2px;
 	font-weight: normal;
@@ -426,7 +426,7 @@ ul#nav li.current a { color: #ff0000; }
    letter-spacing: 1px;
    text-align: center;
    margin-bottom: 48px;
-   color: #95A3A3;
+   color: #ffffff;
 }
 
 /* Portfolio Content */
